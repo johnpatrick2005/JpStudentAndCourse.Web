@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpStudentAndCourse.Web", "JpStudentAndCourse.Web.csproj", "{15C924E2-D5C5-4C31-A336-0F3631640A69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpStudentAndCourse.Models", "..\JpStudentAndCourse.Models\JpStudentAndCourse.Models.csproj", "{610960E5-30A5-4364-8016-0D6D47D16457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpStudentAndCourse.Contracts", "..\JpStudentAndCourse.Contracts\JpStudentAndCourse.Contracts.csproj", "{FB7315E3-A949-4EF4-8427-DE14BC11B213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpStudentAndCourse.EntityFramework", "..\JpStudentAndCourse.EntityFramework\JpStudentAndCourse.EntityFramework.csproj", "{821111D0-15DD-487C-9F5B-9EF0362F8BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpStudentAndCourse.MySql", "..\JpStudentAndCourse.MySql\JpStudentAndCourse.MySql.csproj", "{280775EC-DA74-4DCA-A91B-4D8DAD76A095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JpStudentAndCourse.Services", "..\JpStudentAndCourse.Services\JpStudentAndCourse.Services.csproj", "{9D9B9A22-F146-49C4-8C8D-386750EB0511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C924E2-D5C5-4C31-A336-0F3631640A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C924E2-D5C5-4C31-A336-0F3631640A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C924E2-D5C5-4C31-A336-0F3631640A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C924E2-D5C5-4C31-A336-0F3631640A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610960E5-30A5-4364-8016-0D6D47D16457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610960E5-30A5-4364-8016-0D6D47D16457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610960E5-30A5-4364-8016-0D6D47D16457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610960E5-30A5-4364-8016-0D6D47D16457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7315E3-A949-4EF4-8427-DE14BC11B213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7315E3-A949-4EF4-8427-DE14BC11B213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7315E3-A949-4EF4-8427-DE14BC11B213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7315E3-A949-4EF4-8427-DE14BC11B213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821111D0-15DD-487C-9F5B-9EF0362F8BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821111D0-15DD-487C-9F5B-9EF0362F8BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821111D0-15DD-487C-9F5B-9EF0362F8BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821111D0-15DD-487C-9F5B-9EF0362F8BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280775EC-DA74-4DCA-A91B-4D8DAD76A095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280775EC-DA74-4DCA-A91B-4D8DAD76A095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280775EC-DA74-4DCA-A91B-4D8DAD76A095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280775EC-DA74-4DCA-A91B-4D8DAD76A095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9B9A22-F146-49C4-8C8D-386750EB0511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9B9A22-F146-49C4-8C8D-386750EB0511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9B9A22-F146-49C4-8C8D-386750EB0511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9B9A22-F146-49C4-8C8D-386750EB0511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D476AFBC-F3B6-4FBA-9F04-2146E81AC5A3}
+	EndGlobalSection
+EndGlobal
